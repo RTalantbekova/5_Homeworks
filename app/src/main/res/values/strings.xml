@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L4_Homework</string>
+    <string name="btn_enter">Log In</string>
+    <string name="btn_regist">Registration</string>
+    <string name="btn_upgrade">Update</string>
+    <string name="btn_exit">Exit</string>
+
+    <string name="edit_login">Enter login</string>
+    <string name="edit_pass">Password</string>
+
+</resources>
